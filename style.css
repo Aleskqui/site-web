@@ -47,7 +47,7 @@ main{
 }
 
 .titre_main h1{
-    font-size: 50%;
+    font-size: 100px;
     letter-spacing: 3px;
     
 }
@@ -310,7 +310,7 @@ table td {
 
 
     .titre_main h1{
-        font-size: 50px;
+        font-size: 40px;
         
     }
     
